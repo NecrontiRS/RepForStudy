@@ -54,7 +54,7 @@ int main()
                 num = num + 1;
             }
         }
-        cout << "Sum = " << sum << "; Num = " << num << endl;
+        cout << "Sum = " << sum << "; Num = " << num << endl; //вывод суммы
         sum = 0;
         num = 0;
     }
